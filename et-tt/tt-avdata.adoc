@@ -1,0 +1,8 @@
+== Task Team on Aviation Data Standards
+
+=== Terms of Reference
+
+[loweralpha]
+
+. Maintain and further develop the ICAO Meteorological Information Exchange Model (IWXXM) as required by ICAO,
+. Maintain the alphanumeric code forms related to aviation in the Manual on Codes Vol. I.1 as required by ICAO, 

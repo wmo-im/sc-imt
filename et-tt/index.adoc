@@ -1,0 +1,15 @@
+include::et-w2it.adoc[]
+
+include::et-w2dp.adoc[]
+
+include::et-w2ops.adoc[]
+
+include::et-im.adoc[]
+
+include::et-data.adoc[]
+
+include::et-metadata.adoc[]
+
+include::tt-wis2swim.adoc[]
+
+include::tt-wis2swim.adoc[]

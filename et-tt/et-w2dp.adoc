@@ -1,0 +1,7 @@
+== Expert Team on WIS2 Development Programme
+
+=== Terms of Reference
+
+[loweralpha]
+. Develop a training program to support Members in the implementation of WIS2
+. Develop a competency framework for WIS2

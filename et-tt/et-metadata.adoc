@@ -1,0 +1,22 @@
+== Expert Team on Metadata Standards
+
+=== Terms of Reference
+
+[loweralpha]
+. Review and further develop WMO standards for metadata and data exchange based on the W3C, OGC, and ISO TC211 19100 series of international standards (including XML) to meet the needs of Members, WIS, WIGOS, WMO Programmes and partner organizations such as ICAO, 
+
+. Coordinate with WMO Programmes to identify best practices and standards in creating metadata that will enable users from outside the originator’s community to discover and identify that the data are relevant to them and develop recommended practices to achieve this end, 
+
+.  Contribute to the review of and recommend updates to the Manual on Codes (WMO No. 306) and the Manual on the WMO Information System (WMO-No 1060) and associated reference and guidance material as required, publishing these in suitable electronic forms for human and automated use, 
+
+. Review and update the procedures for maintaining and developing the WMO Core Metadata Profile, WMO Logical Data Model (METCE), WIGOS Metadata Standard and other WMO standards for metadata and data exchange based on the W3C, OGC and ISO TC211 19100 series of international standards, 
+
+. Propose to relevant bodies (ISO, OGC, W3C) changes to their respective standards that are required to meet the needs of WMO Members, 
+
+. Lead the identification of tools to facilitate the metadata management lifecycle and assess and evaluate tools to allow users to create, publish, harvest and discover metadata, giving priority to tools for automated harvesting and editing.  Prepare best practices and guidelines and cookbooks to support implementation, 
+
+. Lead the implementation of a metadata quality assessment framework in order to recommend improved, relevant metadata for useful search and discovery and support the Expert Team on Operation and Monitoring on its implementation, 
+
+. Facilitate search requirements, standards and related capabilities in the context of WMO discovery metadata search.  Provide recommendations on addressable and actionable metadata linkages in support of shifting from a service-oriented architecture to a resource-oriented architecture; provide recommendations on mass market integration to lower the barrier and extend the reach of WMO data/metadata to mainstream search engines, as well as aligning with service discovery as needed, 
+
+. Identify implementation issues requiring the urgent consideration of the SC-IMT. 

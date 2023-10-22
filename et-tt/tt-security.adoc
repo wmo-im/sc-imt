@@ -1,0 +1,7 @@
+== Task Team on Security
+
+=== Terms of Reference
+
+[loweralpha]
+
+. Update the Guide to WIS with guidance to support secure WIS2 operations

@@ -1,0 +1,13 @@
+== Expert Team on WIS2 Operations
+
+=== Terms of Reference
+
+[loweralpha]
+. Oversee WIS2 monitoring and incident management activities
+. Provide coordination and collaboration mechanisms to support WIS Centres in the implementation and operation of WIS2
+. Monitor and review Global Services performance
+. Monitor and review GISC performance in supporting their area of responsibility
+
+=== Composition
+- All GISC focal points
+- All Global Services focal points
