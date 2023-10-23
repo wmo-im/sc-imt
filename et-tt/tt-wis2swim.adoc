@@ -1,0 +1,7 @@
+== Task Team on WIS2 and SWIM interoperability
+
+=== Terms of Reference
+
+[loweralpha]
+. Develop interoperability approaches between the WIS2 and SWIM, ensuring that ICAO data policies are satisfied.
+. Draft appropriate technical regulations and guidance for WIS2 and SWIM interoperability to be proposed for approval by WMO and ICAO

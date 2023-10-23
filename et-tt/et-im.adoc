@@ -1,0 +1,11 @@
+== Expert Team on Information Management
+
+=== Terms of Reference
+
+[loweralpha]
+. Maintain and develop recommended practices and technical guidance material for information management to meet the needs of Members, WIS and WMO Programmes, 
+. Collaborate widely to review available information management practices and develop appropriate standards and practices for information management, 
+. Propose updates to incorporate standards and practices for information management under WIS Part C in the Manual on WIS (WMO No. 1060) and Guide to the WIS (WMO No. 1061), 
+. Recommend updates to the WIS competencies related to information management and associated training and learning guides, 
+. Review and develop technical resources and best practices related to historical records management and data rescue, 
+. Support the development of a reference open-source Climate Data Management System (CDMS) for climate and hydrological data management (OpenCDMS) (Res. 22 (Cg-18)

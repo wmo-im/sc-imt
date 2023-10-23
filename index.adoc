@@ -1,0 +1,19 @@
+:title: Standing Committee for Information Management and Technology
+:titletext: {title}
+:version: 2.0.0alpha1
+:date: 2023-05-22
+:copyright: Copyright © 2023 World Meteorological Organization (WMO)
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc:
+:toc-placement!:
+:toclevels: 3
+:sectnums:
+:sectnumlevels: 4
+:sectanchors:
+:sectnum-start: 2
+
+= {title}
+
+include::et-tt/index.adoc[]

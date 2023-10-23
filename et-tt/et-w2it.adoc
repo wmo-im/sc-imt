@@ -1,0 +1,8 @@
+== Expert Team on WIS2 Implementation and Transition
+
+=== Terms of Reference
+
+[loweralpha]
+. Support the implementaiton of WIS2
+. Monitor the transition from WIS/GTS to WIS2
+. Update the Manual on WIS, Guide to WIS and the Guide on Transition and Retriement of WIS1 and GTS
