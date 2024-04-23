@@ -5,3 +5,10 @@
 [loweralpha]
 
 . Update the Guide to WIS with guidance to support secure WIS2 operations
+. Contribute to the implementation of WIS 2.0 (in accordance with Resolution 57 (CG-18) with a particular focus on information technology  IT) security,
+. Maintain and develop recommended practices and technical guidance material for IT security in order to support the WIS Security Focal point in their duties,
+. Review and amend as required the corresponding guidance material, e.g. the Guide on Information Technology (WMO-No. 1115)
+. Provide guidance on the security aspects of data communication services for WIS implementations at national, regional and global levels to ensure a non-disruptive migration to evolving technologies, including among others satellite telecommunications, managed data communications network services, cloud services and the Internet,
+. Identify implementation issues requiring the urgent consideration of the Standing Committee on Infrastructure Management and Technology,
+. Contribute to the maintenance of WIS competencies related to network, security and cloud management including the associated training and learning guides.
+
