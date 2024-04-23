@@ -6,3 +6,12 @@
 . Support the implementaiton of WIS2
 . Monitor the transition from WIS/GTS to WIS2
 . Update the Manual on WIS, Guide to WIS and the Guide on Transition and Retriement of WIS1 and GTS
+. Continue to develop and refine the overall system architecture for WIS2, broadening the scope of application to support all Earth-system domains
+. Develop proposals for additional types of WIS Centres in response to Members' requirements
+. Provide guidance for Members regarding their implementation of WIS2 and retirement of GTS/WIS1 functions
+. Develop guidance on the use of APIs within WIS2
+. Direct the transition from GTS/WIS1 to WIS2; refine the transition plan, gather metrics on and feedback about the transition, identify activities needed to drive the transition as per the WIS2 implementation plan or mitigate issues arising
+. Define functional and non-functional requirements for use in capability assessment of WIS2 centres
+. Work with SC-IMT Expert Teams to recommend updates to WIS2 regulatory material as needed in support of the transition: Manual on WIS (WMO No. 1060) Volume II, Guide to WIS (WMO No. 1061) Volume II, Provisions for the transition from WIS 1.0 and GTS to WIS 2.0 (WMO No. pending)
+. Engage with the private sector to determine how they may contribute to support efficient and effective exchange of data and information among WMO Members
+. Identify gaps where further standardization is required to support WIS2
