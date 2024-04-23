@@ -7,6 +7,6 @@
 . Maintain and develop recommended practices and technical guidance material for information management to meet the needs of Members;
 [lowerroman]
 .. Develop technical guidance on implementing FAIR Principles and support the development of a FAIR scoreboard for data shared on WIS2;
-.. Review and develop technical resources and best practices related to historical records management and data rescue, in close collaboration with SERCOM;
-.. Support the implementation of Climate Data Management System Specifications (WMO-No. 1131), developing minimum technical specifications for compliance assessment.
-. Review and propose updates to incorporate standards and practices for information management in the Manual on WIS (WMO No. 1060) and Guide to the WIS (WMO No. 1061);
+.. In close collaboration with SERCOM, review and develop technical resources and best practices related to historical records management and data rescue;
+.. In close collaboration with SERCOM, develop the minimum technical specifications of a climate data management system deemed compliant with the WMO Climate Data Management System Specifications (WMO-No. 1131) for inclusion in WMO-No. 1131;
+. Review and propose updates to incorporate standards and practices for information management in the Manual on WIS (WMO No. 1060) and Guide to the WIS (WMO No. 1061).
