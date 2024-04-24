@@ -1,32 +1,27 @@
 == Expert Team on WIS Operations
-Purpose: coordinate global monitoring and performance management of WIS 2.0 operations
+
 === Terms of Reference
 
 [loweralpha]
-. Oversee WIS2 monitoring and incident management activities
-. Provide coordination and collaboration mechanisms to support WIS Centres in the implementation and operation of WIS2
-. Monitor and review Global Services performance
-. Monitor and review GISC performance in supporting their area of responsibility
+
+.	Provide coordination and collaboration mechanisms for supporting the implementation and operation of WIS2 Nodes and Global Services,
+.	Foster collaboration among GISCs, WIS2 Nodes and Global Services,
+.	Review Global Services and Gateways performance,
+.	Further develop WIS2 monitoring services and Centre registration procedures to improve the efficient operation and usability of WIS2,
+. Generate key figures and thresholds and adjust them during ongoing operations,
+.	Monitor metadata quality and effectiveness within the WIS2 Global Discovery Catalogue and take actions to address identified issues,
+.	Develop and oversee procedures for alerting, escalating, and tracking issues in case of service interruptions, develop notification mechanisms for maintenance announcements,
+.	Review, further develop and oversee routine WIS monitoring and incident resolution activities,
+.	Contribute to the further evolution of WIS2 in close collaboration with other Expert Teams,
+.	Contribute to the implementation of WIS2 to ensure continuous successful operations,
+.	Maintain guidance and management procedures for assessment capabilities of WIS centres as described in the Manual on WIS,
+.	Review and develop the Manual on WIS (WMO-No. 1060), the Guide to WIS (WMO No. 1061) and associated informal guidance to better meet the needs of Members concerning WIS operational activities,
+.	Maintain WIS competencies related to WIS2 Node and Global Services,
+.	Further develop, oversee, and monitor procedures to ensure a smooth transition from GTS and WIS to WIS2. Oversee the migration status and assist centres in their transition,
+.	Review GISC management of their Area of Responsibility,
+.	Facilitate training on WIS2 by GISCs and Regional Training Centres.
 
 === Composition
 - All GISC focal points
 - All Global Services focal points
-
-=== Drafted and submitted by Thorsten Büßelberg in March 2024
-(a)	Provide coordination and collaboration mechanisms for supporting the implementation and operation of WIS2 Nodes and Global Services,
-(b)	Foster collaboration among GISCs, WIS2 Nodes and Global Services,
-(c)	Review Global Services and Gateways performance,
-(d)	Further develop WIS2 monitoring services and Centre registration procedures to improve the efficient operation and usability of WIS2,
-(e)	Generate key figures and thresholds and adjust them during ongoing operations,
-(f)	Monitor metadata quality and effectiveness within the WIS2 Global Discovery Catalogue and take actions to address identified issues,
-(g)	Develop and oversee procedures for alerting, escalating, and tracking issues in case of service interruptions, develop notification mechanisms for maintenance announcements,
-(h)	Review, further develop and oversee routine WIS monitoring and incident resolution activities,
-(i)	Contribute to the further evolution of WIS2 in close collaboration with other Expert Teams,
-(j)	Contribute to the implementation of WIS2 to ensure continuous successful operations,
-(k)	Maintain guidance and management procedures for assessment capabilities of WIS centres as described in the Manual on WIS,
-(l)	Review and develop the Manual on WIS (WMO-No. 1060), the Guide to WIS (WMO No. 1061) and associated informal guidance to better meet the needs of Members concerning WIS operational activities,
-(m)	Maintain WIS competencies related to WIS2 Node and Global Services,
-(n)	Further develop, oversee, and monitor procedures to ensure a smooth transition from GTS and WIS to WIS2. Oversee the migration status and assist centres in their transition,
-(o)	Review GISC management of their Area of Responsibility,
-(p)	Facilitate training on WIS2 by GISCs and Regional Training Centres.
 
