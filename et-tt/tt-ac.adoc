@@ -1,0 +1,15 @@
+== Task Team on Audit and Certification
+
+=== Purpose (from INFCOM-3-INF06-2)
+[loweralpha]
+. process requests on audit for centre designation according to the approved audit programme
+
+=== Terms of Reference (reviewed at SC-IMT in January 2024)
+In support of the WMO Quality Management Framework (WMO-No. 49, Vol VII)and ISO 9001:2015, the TT-AC will be responsible for the following:
+[loweralpha]
+. Develop and maintain an audit framework programme for the assessmentof each type of operational centres
+. Provide guidance to system and process owners on the specification of audit assessment criteria based on a risk-based approach
+. Coordinate and schedule audits of centres in response to requests from Technical Commissions, relevant WMO bodies and other cooperating international organizations
+. In collaboration with nominated subject matter experts, conduct audits of centres, including on site audits
+. Make recommendations to SC-IMT regarding continuous improvement of the procedures for certification and periodic assessment of WMO and partner organizations centres
+. Advise SC-IMT on systematic issues identified during certification and assessment activities
