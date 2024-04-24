@@ -3,7 +3,7 @@
 === Terms of Reference
 
 [loweralpha]
-. Maintain and further develop table-driven codes in the Manual on Codes (WMO-No. 306) Vol. I.2 and Vol. I.3, to meet the requirements of all Members, WMO Earth system disciplines and domains as well as partner organizations,  
+. Maintain and further develop the Manual on Codes (WMO-No. 306) Vol. I.2 and Vol. I.3, to meet the requirements of all Members, WMO Earth system disciplines and domains as well as partner organizations,  
 . Adapt and update current reporting practices in the alphanumeric code regulations for adaptation to table-driven code forms, 
 . Examine specific requirements by Members, WMO Earth system disciplines and domains and partner organizations for the implementation of CF-netCDF data profiles and extensions in collaboration with the CF community and in harmonization with the existing CF conventions and their future development,  
 . Examine new formats that are required by WMO Earth system disciplines and domains, invite and assist Members to participate in the experimental exchange of data encoded in modified or new formats, and provide Members with guidance on WMO data standards and representation,
