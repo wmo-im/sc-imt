@@ -2,7 +2,9 @@ include::et-w2it.adoc[]
 
 include::et-w2dp.adoc[]
 
-include::et-w2ops.adoc[]
+include::et-wisops.adoc[]
+
+include::et-security.adoc[]
 
 include::et-im.adoc[]
 
@@ -10,6 +12,6 @@ include::et-data.adoc[]
 
 include::et-metadata.adoc[]
 
-include::tt-wis2swim.adoc[]
+include::tt-avdata.adoc[]
 
-include::tt-wis2swim.adoc[]
+include::tt-first-mile.adoc[]
