@@ -1,15 +1,11 @@
 == Task Team on Audit and Certification
 
-=== Purpose (from INFCOM-3-INF06-2)
+=== Terms of Reference 
+In support of the WMO Quality Management Framework (WMO-No. 49, Volume I, 2019 edition/update in 2021 PART VII) and ISO 9001 standard, the TT-AC will be responsible for the following:
 [loweralpha]
-. process requests on audit for centre designation according to the approved audit programme
-
-=== Terms of Reference (reviewed at SC-IMT in January 2024)
-In support of the WMO Quality Management Framework (WMO-No. 49, Vol VII)and ISO 9001:2015, the TT-AC will be responsible for the following:
-[loweralpha]
-. Develop and maintain an audit framework programme for the assessmentof each type of operational centres
-. Provide guidance to system and process owners on the specification of audit assessment criteria based on a risk-based approach
-. Coordinate and schedule audits of centres in response to requests from Technical Commissions, relevant WMO bodies and other cooperating international organizations
-. In collaboration with nominated subject matter experts, conduct audits of centres, including on site audits
-. Make recommendations to SC-IMT regarding continuous improvement of the procedures for certification and periodic assessment of WMO and partner organizations centres
-. Advise SC-IMT on systematic issues identified during certification and assessment activities
+. Develop and maintain an audit programme in compliance with ISO 19011:2018 for the assessment of WMO operational data centres,
+. Provide guidance to audit clients on the definition of audit objectives and criteria based on a risk-based approach,
+. Coordinate and schedule audits of centres in response to requests from Technical Commissions, relevant WMO bodies and other cooperating international organizations,
+. In collaboration with nominated subject matter experts, conduct audits of centres by following WMO-No. 49, ANNEX AUDIT PROCESS, including on-site audits, where required,
+. Make recommendations to SC-IMT and SC-ON on the continuous improvement of the procedures for certification and periodic assessment of WMO and partner organizations centres,
+. Advise SC-IMT and SC-ON on systematic issues identified during audits.
