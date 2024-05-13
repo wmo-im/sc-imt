@@ -4,11 +4,10 @@
 
 [loweralpha]
 . Develop a training program to support Members in the implementation of WIS2
-. Develop a competency framework for WIS2
-. Contribute to the implementation of WIS 2.0 (in accordance with Resolution 57 Cg-18) with a focus on addressing the needs of all WMO Regional Associations and Programmes
-. Work with Regional Associations and Programmes to support the successful implementation of WIS 2.0 using proven change management practices,
+. Develop in collaboration with the Capacity Development Panel, a competency framework for WIS2
+. Contribute to the implementation of WIS 2.0  with a focus on addressing the needs of all WMO Regional Associations and Programmes
+. Work with the Secretarriat, Regional Associations and Programmes to support the successful implementation of WIS 2.0 using proven change management practices,
 . Ensure that the requirements from all Regional Associations and Programmes are satisfied according to WIS 2.0 Technical Regulations and WIS Implementation Approach.
 . Organize regular feedback from Members from all Regional Associations and Programmes(on WIS and its evolution),
-. Support Regional Associations and Programmes, with a particular focus on least developed countries and small islands developing states, in the transition towards WIS 2.0 by e.g. contributing to training programs, organization of workshops,
 . Contribute and facilitate the active participation of Members from all Regional Associations and Programmes in WIS 2.0 related projects,
 . Support the GISCs to ensure successful implementation of WIS in their area of responsibility.
