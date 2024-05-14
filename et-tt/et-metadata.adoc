@@ -3,8 +3,10 @@
 === Terms of Reference
 
 [loweralpha]
-. Develop and maintain WMO standards for metadata (WMO 1060, 1061, 306, 1192) based on the W3C, OGC and ISO/TC 211 series of international standards to meet the needs of Members, WIS, WIGOS, WMO Earth system disciplines/domains and partner organizations;
+. Develop and maintain WMO standards for metadata in the Manual on WIS(WMO 1060), Vol. II, Guide to WIS (WMO-No. 1061), Vol. II, Manual on Codes (WMO-No.306), Vol I.3 and WIGOS Metadata Standard (WMO-No.1192) based on the W3C, OGC and ISO/TC 211 series of international standards to meet the needs of Members, WIS, WIGOS, WMO Earth system disciplines/domains and partner organizations;
 . Develop and maintain quality assessment frameworks in order to facilitate the continuous improvement of metadata management, discovery and use;
-. Collaborate with relevant standards bodies (such as OGC) to ensure that the metadata requirements and standards are harmonized to meet the needs and reduce the operational impact to WMO members
-. Perform a comparative analysis of WMO metadata standards (such as WCMP2, WIGOS, WNM); vocabularies, and use of persistent identifiers in order to provide recommendations and options on future evolution and/or harmonization;
-. Evaluate, recommend and improve tools to facilitate the metadata management lifecycle (create, publish, update, discover and harvest), giving priority to tools for automated harvesting and editing. Prepare best practices and guidelines to support implementation.
+. Collaborate with relevant standards bodies (such as OGC and ISO) to ensure that the metadata requirements and standards are harmonized to meet the needs and reduce the operational impact to WMO members;
+. Perform a comparative analysis of WMO Core Metadata Profile v2, WIS Notification Message, WIGOS Metadata Standard, vocabularies, and use of persistent identifiers in order to provide recommendations and options on future evolution and/or harmonization;
+. Evaluate, recommend and improve tools to facilitate the metadata management lifecycle (create, publish, update, discover and harvest), giving priority to tools for automated harvesting and editing; 
+. Prepare best practices and guidelines to support implementation;
+. Maintain and further develop the content of codes.wmo.int as required by the metadata standards. 
