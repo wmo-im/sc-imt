@@ -14,6 +14,6 @@
 === Deliverables / tasks (ordered by priority)
 
 [loweralpha]
-. Proposed revisions to the Manual on High Quality Global Data Management Framework for Climate (WMO-No. 1238)
-. Proposed minimal technical specifications for a CDMS compliant with the Climate Data Management System Specifications (WMO-No. 1131)
-. Technical guidance on implementing the FAIR Principles and development of a FAIR scoreboard for datasets shared on the WIS2
+. Proposed revisions to the Manual on High Quality Global Data Management Framework for Climate (WMO-No. 1238);
+. Proposed minimal technical specifications for a CDMS compliant with the Climate Data Management System Specifications (WMO-No. 1131);
+. Technical guidance on implementing the FAIR Principles and development of a FAIR scoreboard for datasets shared on the WIS2.
