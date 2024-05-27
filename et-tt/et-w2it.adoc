@@ -4,7 +4,7 @@
 
 [loweralpha]
 
-. Monitor the transition from WIS/GTS to WIS2
+
 . Continue to develop and refine the overall system architecture for WIS2, broadening the scope of application to support all Earth-system domains
 . Develop proposals for additional types of WIS Centres in response to Members' requirements
 . Provide guidance for Members regarding their implementation of WIS2 and retirement of GTS/WIS1 functions
