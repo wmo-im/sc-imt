@@ -1,0 +1,21 @@
+== Task Team on WIS2 For Hydrology and WHOS implementation 
+
+=== Terms of Reference
+1.	Regularly report to relevant ETs and SC-IMT on the progress of the task team activities.
+2.	Collaborate with other relevant ETs and TTs on the implementation of the WMO Plan of Action for Hydrology 2020-2030 within SC-IMT
+3.	Finalize the 2024-2029 WHOS operational plan in alignment with WIS 2.0.
+
+=== WIS2 for Hydrology (SG 1) 
+4.	Support the alignment of WHOS and WIS2.0 by promoting standardization, developing a metadata extension for hydrology in the WMO Core Metadata Profile (WCMP 2.0) standard to describe hydrological data and products. To develop the hydrology topic hierarchy and hydrological data and metadata key performance indicators (KPIs) to assess the completeness and quality of metadata records within WIS global services and WHOS in collaboration with SC-ON.
+5.	Contribute to the development of the functional architecture and capability requirements (to be used for compliance assessments) for designation of new/integration of existing global hydrological data centres (according to INFCOM-3 decision on hydrological centers -Link), National Data Centres (institutions), Global/Regional WHOS middleware (e.g. DAB) as/within WIS centers, considering the estimated costs of running these services.
+6.	Prepare new manuals, guides and other technical regulation documents and updates to relevant chapters in the documents, related to hydrological data exchange and access as part of WIS.
+7.	Support sharing of hydrological data from satellites, modelled data, etc needed by using different hydrological applications, models and forecasting implemented in specific WMO programmes and initiatives related to hydrology, such as EW4All. 
+8.	Work closely with other TTs, ETs and other hydrology groups to support information exchange, access, and storage protocols needed for HydroSOS and State of the Global Water Resources report.
+
+=== WHOS Implementations (SG 2)
+9.	Further develop WHOS in alignment with WIS2.0 as the WMO platform for international and regional exchange and access of hydrological data (including groundwater, water quality, surface water, etc) among Members and partners by engaging with technical stakeholders to consolidate requirements.
+10.	 Develop the overall system architecture for WHOS covering the processes, policies and technology aspects.
+11.	Support the development of extensions to the relevant WHOS components e.g WHOS DAB, WIS2.0 in box, HydroServer, etc. based on requirements from the Members. 
+12.	Lead the implementation of WHOS among Members at national, regional and international scales, as per Cg-19 request (4.2(4)/24 (Cg-19), in collaboration with other UN Organizations, academia, and regional/international organizations, to address the gaps in standardization and data sharing. 
+13.	Develop capacity building and training materials on WHOS and engage in capacity development for Members in collaboration with RTCs, other capacity building groups within WMO, academia, and regional organizations (basins and commissions). 
+14.	Support the operations of different WHOS implementations through continuous engagement, help desk, etc.
