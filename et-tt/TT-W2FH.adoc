@@ -1,4 +1,4 @@
-== Task Team on WIS2 For Hydrology and WHOS implementation 
+== Task Team on WIS2 For Hydrology and WHOS implementation  
 
 === Terms of Reference
 1.	Regularly report to relevant ETs and SC-IMT on the progress of the task team activities.
