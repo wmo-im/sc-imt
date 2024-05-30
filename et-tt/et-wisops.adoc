@@ -6,14 +6,21 @@
 
 .	Provide coordination and collaboration mechanisms for supporting the implementation and operation of WIS2 Nodes, Global Services and Gateways,
 .	Foster collaboration among GISCs and Global Services,
-.	Review GISCs management of their Area of Responsibilities (AoR), including WIS2 Node implementation, registration, assessment, performance monitoring and transition to WIS2,
+.	Review GISCs management of their Area of Responsibilities (AoR), including WIS2 Node implementation, registration, assessment, performance monitoring and transition to WIS 2.0,
 . Review Global Services and Gateways performance,	
-. Further develop WIS2 operation procedures to improve the efficient operation and usability of WIS2,
+. Further develop WIS2 operation procedures to improve the efficient operation and usability of WIS 2.0,
 . Oversee the migration status and contribute to the transition from WIS 1.0 and GTS to WIS 2.0,
-. Propose updates to Manual on WIS (WMO-No.1060) Volume II – WMO Information System 2.0, Guide to WIS (WMO-No.1061) Volume II – WMO Information System 2.0, to meet Members' needs for implementation and operation,
-.	Facilitate training on WIS2 implementation, operation, and transition provided by GISCs and Regional Training Centres.
 
-=== Composition
-- All GISC focal points
-- All Global Services focal points
+__ No. It is in et-w2it...__
+
+. Propose updates to Manual on WIS (WMO-No.1060) Volume II – WMO Information System 2.0, Guide to WIS (WMO-No.1061) Volume II – WMO Information System 2.0, to meet Members' needs for implementation and operation,
+
+__ Same __ 
+
+.	Facilitate training on WIS 2.0 implementation, operation, and transition provided by GISCs and Regional Training Centres.
+
+__ Not sure what it means. Isn't in w2dp ? __
+
+I'd like this ET to focus on operations and nothing else. If/when they have needs for tools or else, they go to another ET.
+
 
