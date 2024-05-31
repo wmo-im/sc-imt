@@ -4,10 +4,9 @@
 1.	Support the alignment of WHOS and WIS2.0 by promoting standardization, developing a metadata extension for hydrology in the WMO Core Metadata Profile (WCMP 2.0) standard to describe hydrological data and products.
 2.	Finalize the 2024-2029 WHOS operational plan including alignment on the data exchange activities within WIS 2.0 framework, and implementation and sustainability engagement plan.
 3.	Develop the WIS 2.0 topic hierarchy, and discovery metadata (in accordance with the WCMP 2.0 for hydrological data and products.
-4.	Develop Hydrological data and products metadata in accordance with the WMO Core Metadata Profile (WCMP 2.0) standard,
-5.	Develop hydrological data and products metadata key performance indicators (KPIs) to assess the completeness and quality of metadata records.
-6.	Regularly report to the SC-IMT Expert Team and hydrological community through appropriate Hydrology INFCOM body on the progress of the task team activities.
-7.	Propose updates to manuals, guides and other technical regulation documents and updates to relevant chapters in the documents, related to hydrological data exchange and access as part of WIS.
-8.	Engage the participation of hydrology stakeholders in the implementation of WIS 2.0.
-9.	Lead the implementation of WHOS among Members at national, regional and international scales, as per Cg-19 request (4.2(4)/24 (Cg-19), in collaboration with other UN Organizations, academia, and regional/international organizations
-10.	Develop capacity building and training materials on WHOS and engage in capacity development for Members in collaboration with ETR and other capacity building groups within WMO, academia, and regional organizations (basins and commissions)
+4.	Develop hydrological data and products metadata key performance indicators (KPIs) to assess the completeness and quality of metadata records.
+5.	Regularly report to the SC-IMT Expert Team and hydrological community through appropriate Hydrology INFCOM body on the progress of the task team activities.
+6.	Propose updates to manuals, guides and other technical regulation documents and updates to relevant chapters in the documents, related to hydrological data exchange and access as part of WIS.
+7.	Engage the participation of hydrology stakeholders in the implementation of WIS 2.0.
+8.	Lead the implementation of WHOS among Members at national, regional and international scales, as per Cg-19 request (4.2(4)/24 (Cg-19), in collaboration with other UN Organizations, academia, and regional/international organizations
+9.	Develop capacity building and training materials on WHOS and engage in capacity development for Members in collaboration with ETR and other capacity building groups within WMO, academia, and regional organizations (basins and commissions)
