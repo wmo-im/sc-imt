@@ -3,11 +3,14 @@
 === Terms of Reference
 
 [loweralpha]
-. Develop a training program to support Members in the implementation of WIS2,
-. Develop, in collaboration with the Capacity Development Panel, a competency framework for WIS2,
+. Develop, in collaboration with the Capacity Development Panel, a competency framework for WIS 2.0,
+. In close collaboration with the Secretariat and the Regional Training Centres, develop a training program to support Members in the implementation of WIS 2.0 in liaison,
 . Contribute to the implementation of WIS 2.0  with a focus on addressing the needs of all WMO Regional Associations and Programmes,
-. Work with the Secretariat, Regional Associations, and Programmes to support the successful implementation of WIS 2.0 using proven change management practices,
-. Ensure that the requirements from all Regional Associations and Programmes are satisfied according to WIS 2.0 Technical Regulations and WIS Implementation Approach,
-. Organize regular feedback on WIS 2.0 from Members and from all Regional Associations and Programmes,
+. Work with the Secretariat, Regional Associations, and Programmes to support the successful implementation of WIS 2.0 by
+.. ensuring that the requirements from all Regional Associations and Programmes are satisfied according to WIS 2.0 Technical Regulations and WIS Implementation Approach,
+.. organizing regular feedback on WIS 2.0 from Members and from all Regional Associations and Programmes,
+. Work in collaboration with Partner Organizations such as IOC and CGMS to foster the implementation of WIS 2.0 and its interoperability with other systems
+. Work in collaboration with SOFF and CREWS in support of GBON and Early Warning for All to successfully implement WIS 2.0.
 . Contribute and facilitate the active participation of Members from all Regional Associations and Programmes in WIS 2.0 related projects,
-. Support the GISCs to ensure successful implementation of WIS in their area of responsibility.
+. Liaise with ET-W2IT and ET-WISOPS to work consistently and coherently toward successfully implementing WIS 2.0.
+
