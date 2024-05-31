@@ -6,6 +6,5 @@ In support of the WMO Quality Management Framework (WMO-No. 49, Volume I, 2019 e
 . Develop and maintain an audit programme in compliance with ISO 19011:2018 for the assessment of WMO operational data centres,
 . Provide guidance to audit clients on the definition of audit objectives and criteria based on a risk-based approach,
 . Coordinate and schedule audits of centres in response to requests from Technical Commissions, relevant WMO bodies and other cooperating international organizations,
-. In collaboration with nominated subject matter experts, conduct audits of centres by following WMO-No. 49, ANNEX AUDIT PROCESS, including on-site audits, where required,
-. Make recommendations to SC-IMT and SC-ON on the continuous improvement of the procedures for certification and periodic assessment of WMO and partner organizations centres,
+. In collaboration with nominated subject matter experts, conduct audits of centres by following WMO-No. 49, ANNEX AUDIT PROCESS.
 . Advise SC-IMT and SC-ON on systematic issues identified during audits.
