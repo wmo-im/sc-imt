@@ -4,21 +4,14 @@
 
 [loweralpha]
 
-
 . Continue to develop and refine the overall system architecture for WIS 2.0, broadening the scope of application to support all Earth-system domains
-. Develop proposals for additional types of WIS Centres in response to Members' requirements
-__ WIS Centers ?? we have NC/DCPC/GISC this will "never" change.
+. Develop proposals for additional types of WIS 2.0 Services in response to Members' requirements
 
 . Provide guidance for Members regarding their implementation of WIS 2.0 and retirement of GTS/WIS1 functions
 . Develop guidance on the use of APIs within WIS 2.0
-. Direct the transition from GTS/WIS1 to WIS 2.0; refine the transition plan, gather metrics on and feedback about the transition, identify activities needed to drive the transition as per the WIS 2.0 implementation plan or mitigate issues arising
-__ Too detailed and already suppose that the transition plan has to be reviewed __
-
-. Define functional and non-functional requirements for use in capability assessment of WIS centres
-__ Not sure what it means __
-
+. Refine the plan for the transition from GTS/WIS1 to WIS 2.0; coordinate implementation, and monitor progress 
+. Develop and execute test plans for WIS 2.0 Global Services 
+. Ensure provision of infrastructure to enable testing of WIS 2.0 components
 . Work with SC-IMT Expert Teams to recommend updates to WIS 2.0 regulatory material as needed in support of the transition: Manual on WIS (WMO No. 1060) Volume II, Guide to WIS (WMO No. 1061) Volume II, Provisions for the transition from WIS 1.0 and GTS to WIS 2.0 (WMO No. pending)
-. Engage with HMEI to determine how they may contribute to support efficient and effective exchange of data and information among WMO Members
-__ I don't like the "may" here. OK with engagement on HMEI but the wording is to be reviewed __
-
+. Engage with HMEI to determine opportunities for their members contribute to support efficient and effective exchange of data and information among WMO Members
 . Identify gaps where additonal standardization is required to further improve WIS 2.0
