@@ -4,9 +4,10 @@
 
 [loweralpha]
 
-. Maintain and further develop the ICAO Meteorological Information Exchange Model (IWXXM) as required by ICAO in Manual on Codes (WMO-No. 306) Vol. I.3; 
-. Review and update the IWXXM information model, schemas and supporting code lists to align with recent changes to WMO publications and to ensure that all IWXXM codes are comprehensively described in one code list; 
-. Maintain the alphanumeric code forms and WMO abbreviated headings as required by ICAO;
-. Engage participation of aviation stakeholders in the development of IWXXM;
-. Promulgate publication of new versions of IWXXM to aviation stakeholders.
+. In close collaboration with SERCOM and in accordance with the requirements provided by ICAO:
+.. Maintain and further develop the ICAO Meteorological Information Exchange Model (IWXXM) in Manual on Codes (WMO-No. 306) Vol. I.3; 
+.. Review and update the IWXXM information model, schemas, and supporting code lists to align with recent changes to WMO publications and to ensure that all IWXXM codes are comprehensively described in one code list; 
+.. Maintain the aviation-related alphanumeric code forms and WMO abbreviated headings;
+.. Engage participation of aviation stakeholders in the development of IWXXM;
+.. Promulgate the publication of new versions of IWXXM to aviation stakeholders.
  
