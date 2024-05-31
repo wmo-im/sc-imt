@@ -12,5 +12,5 @@
 . Oversee the migration status and contribute to the transition from WIS 1.0 and GTS to WIS 2.0,
 . Propose updates to Manual on WIS (WMO-No.1060) Volume II – WMO Information System 2.0, Guide to WIS (WMO-No.1061) Volume II – WMO Information System 2.0, to meet Members' needs for implementation and operation,
 .	Facilitate training on WIS2 implementation, operation, and transition provided by GISCs and Regional Training Centres.
-
+. Liaise with ET-W2IT and ET-W2DP to work consistently and coherently toward successfully implementing WIS 2.0.
 
