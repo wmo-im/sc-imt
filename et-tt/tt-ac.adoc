@@ -3,7 +3,7 @@
 === Terms of Reference 
 In support of the WMO Quality Management Framework (WMO-No. 49, Volume I, 2019 edition/update in 2021 PART VII) and ISO 9001 standard, the TT-AC will be responsible for the following:
 [loweralpha]
-. Develop and maintain an audit programme in compliance with ISO 19011:2018 for the assessment of WMO operational data centres,
+. Develop and maintain an audit programme in compliance with ISO 19011 for the assessment of WMO operational data centres,
 . Provide guidance to audit clients on the definition of audit objectives and criteria based on a risk-based approach,
 . Coordinate and schedule audits of centres in response to requests from Technical Commissions, relevant WMO bodies and other cooperating international organizations,
 . In collaboration with nominated subject matter experts, conduct audits of centres by following WMO-No. 49, ANNEX AUDIT PROCESS.
