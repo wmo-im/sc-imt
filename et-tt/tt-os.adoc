@@ -3,12 +3,12 @@
 === Terms of Reference
 
 [loweralpha]
-In close collaboration with SERCOM and the Secretariat:
-. Propose specific roles and responsibilities of INFCOM, SERCOM and the Secretariat in managing and guiding open-source initiatives.
-. Establish guidelines for the alignement of open-source projects with WMO's technical regulations and standards. 
+In close collaboration with SERCOM and coordination with the Secretariat:
+. Propose specific roles and responsibilities in managing and guiding open-source initiatives.
+. Establish guidelines for aligning open-source projects with WMO's technical regulations and standards. 
 . Propose mechanisms for ensuring that open-source development aligns with and accelerates the implementation of key WMO initiatives, particularly Early Warnings for All.
 . Establish guidelines on managing risks associated with using open-source by WMO Members.
 . Develop strategies and establish guidelines to support Members' digital transformation efforts through open-source solutions. 
 . Outline processes for continuous feedback and improvement in WMO's open-source ecosystem. 
-. In close collaboration with SERCOM and the Secretariat coordinate relationships with external open-source communities and UN-wide open-source initiatives.
+. Coordinate relationships with external open-source communities and UN-wide open-source initiatives.
 . Prepare and present a draft collaborative framework for approval at INFCOM-4.
