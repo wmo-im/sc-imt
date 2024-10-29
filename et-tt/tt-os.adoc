@@ -4,6 +4,7 @@
 
 [loweralpha]
 In close collaboration with SERCOM and coordination with the Secretariat:
+
 . Propose specific roles and responsibilities in managing and guiding open-source initiatives.
 . Establish guidelines for aligning open-source projects with WMO's technical regulations and standards. 
 . Propose mechanisms for ensuring that open-source development aligns with and accelerates the implementation of key WMO initiatives, particularly Early Warnings for All.
