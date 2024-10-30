@@ -3,7 +3,7 @@
 === Terms of Reference
 
 [loweralpha]
-In close collaboration with SERCOM and coordination with the Secretariat:
+In close collaboration with SERCOM, Research Board and coordination with the Secretariat:
 
 . Propose specific roles and responsibilities in managing and guiding open-source initiatives.
 . Establish guidelines for aligning open-source projects with WMO's technical regulations and standards. 
