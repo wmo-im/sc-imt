@@ -1,0 +1,17 @@
+== Ad hoc Task Team on WIGOS Metadata Representration 2
+
+=== Terms of Reference
+
+[loweralpha]
+In close collaboration with SC-ON and coordination with the Secretariat:
+
+. Develop, as a first step, a minimum viable product (MVP) next generation representation and encoding Standard for the WIGOS Metadata Representation (WMDR2) based on mandatory elements of WMO-No. 1192, consisting of:
+.. Standard document
+.. WMDR2 schema
+.. Examples
+.. Reference Implementation of working software (pywmdr)
+. Ensure the Standard supports broad interoperability and is extensible for future development and iterations.
+. Ensure the Standard is compatible with WIS2 architecture and metadata (WCMP2).
+. Ensure that the MVP addresses the needs of the users as identified in the 2025 Ad hoc Task Team for OSCAR/Surface
+. Draft the WMDR2 MVP for submission to INFCOM-4.
+. Prepare and present/demonstrate at INFCOM-4.
