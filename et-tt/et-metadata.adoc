@@ -10,6 +10,8 @@
 .. Guide to WIS (WMO-No. 1061), Vol. II;
 .. Manual on Codes (WMO-No. 306), Vol I.3;
 .. WIGOS Metadata Standard (WMO-No. 1192);
+.. Manual on WIGOS (WMO-No. 1160) - Appendix 2.4 The WIGOS Metadata Standard
+.. Guide to WIGOS (WMO-No. 1165) - 3. WIGOS Metadata
 . Develop and maintain quality assessment frameworks in order to facilitate the continuous improvement of metadata management, discovery and use;
 . Collaborate with relevant standards bodies (such as OGC and ISO) to ensure that the metadata requirements and standards are harmonized to meet the needs and reduce the operational impact to WMO members;
 . Perform a comparative analysis of WMO Core Metadata Profile v2, WIS Notification Message, WIGOS Metadata Standard, vocabularies, and use of persistent identifiers in order to provide recommendations and options on future evolution and/or harmonization;
